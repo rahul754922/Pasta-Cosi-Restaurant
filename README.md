@@ -4,14 +4,14 @@
 
 # Live Preview:
 
-Link: https://pastacosi.netlify.app
+Link: https://rahul754922.github.io/Pasta-Cosi-Restaurant/
 
 # Install
 
 - Clone the repository:
 
 ```bash
-git clone https://github.com/AouintiAhmed/bootstrap-restaurant-app.git
+git clone https://github.com/rahul754922/Pasta-Cosi-Restaurant
 ```
 
 - Open **`index.html`** in your browser, and enjoy !
